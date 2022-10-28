@@ -6,7 +6,7 @@ public class SystemUtils {
     public static Connection connection;
     private static final String URL = "jdbc:mysql://localhost:3306/library";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "ciastko123";
+    private static final String PASSWORD = "";
 
     public static void connectToDatabase() {
 
